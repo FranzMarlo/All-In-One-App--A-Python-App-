@@ -1,8 +1,4 @@
-# Python-Final-Project-IT---2101
-* A final project for the course CS - 121 Advance Computer Programming.
-* Submitted to Sir Francis Jesmar Montalbo
-
-# All in One Application
+# All in One Python App
 * A python application that contains 3 features.
 * A very useful and handy app for students that is created using Python as the programming language and Tkinter as its module for the GUI.
 
@@ -16,10 +12,3 @@
 # To run:
 * Open the app.py file to start the runtime of the program.
 
-# Creators of this project:
-* Franz Marlo B. Andal
-* Emmanuel R. Recinto
-* Jerrold Russell R. Ramirez
-* Charles Dave E. Magsino
-
-* Section: IT - 2101
